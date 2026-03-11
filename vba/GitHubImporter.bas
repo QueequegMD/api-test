@@ -1,3 +1,4 @@
+Attribute VB_Name = "GitHubImporter"
 ' ============================================================
 ' GitHub Private Repo - VBA Module Importer
 ' Requires: Tools > References > "Microsoft Scripting Runtime"
